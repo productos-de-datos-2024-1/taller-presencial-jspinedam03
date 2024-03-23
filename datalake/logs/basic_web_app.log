@@ -1,0 +1,20 @@
+2024-03-23 12:14:40,154:INFO:Starting the application
+2024-03-23 12:14:40,270:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 12:14:40,271:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 12:14:40,278:INFO: * Restarting with stat
+2024-03-23 12:14:41,257:INFO:Starting the application
+2024-03-23 12:14:41,264:WARNING: * Debugger is active!
+2024-03-23 12:14:41,268:INFO: * Debugger PIN: 882-270-189
+2024-03-23 12:15:13,460:INFO:127.0.0.1 - - [23/Mar/2024 12:15:13] "GET / HTTP/1.1" 200 -
+2024-03-23 12:15:13,612:INFO:127.0.0.1 - - [23/Mar/2024 12:15:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:32:54,072:INFO: * Detected change in 'C:\\Users\\PC_\\Downloads\\PRODUCTOS DE DATOS TALLERES\\taller-presencial-jspinedam03\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:32:54,235:INFO: * Restarting with stat
+2024-03-23 12:32:55,672:INFO:Starting the application
+2024-03-23 12:32:55,684:WARNING: * Debugger is active!
+2024-03-23 12:32:55,691:INFO: * Debugger PIN: 882-270-189
+2024-03-23 12:32:59,052:INFO: * Detected change in 'C:\\Users\\PC_\\Downloads\\PRODUCTOS DE DATOS TALLERES\\taller-presencial-jspinedam03\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:32:59,217:INFO: * Restarting with stat
+2024-03-23 12:33:00,437:INFO:Starting the application
+2024-03-23 12:33:00,444:WARNING: * Debugger is active!
+2024-03-23 12:33:00,449:INFO: * Debugger PIN: 882-270-189
