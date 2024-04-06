@@ -14,3 +14,15 @@
 2024-04-06 16:46:49,440:INFO:172.18.0.3 - - [06/Apr/2024 16:46:49] "POST / HTTP/1.1" 200 -
 2024-04-06 16:58:08,692:INFO:Finishing API server
 2024-04-06 16:58:08,963:INFO:Finishing API server
+2024-04-06 18:04:34,304:INFO:Starting API server
+2024-04-06 18:04:34,334:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 18:04:34,334:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 18:04:34,338:INFO: * Restarting with stat
+2024-04-06 18:04:35,653:INFO:Starting API server
+2024-04-06 18:04:35,660:WARNING: * Debugger is active!
+2024-04-06 18:04:35,664:INFO: * Debugger PIN: 122-729-280
+2024-04-06 18:15:14,574:INFO:Finishing API server
+2024-04-06 18:15:14,710:INFO:Finishing API server
