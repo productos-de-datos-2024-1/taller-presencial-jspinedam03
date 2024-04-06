@@ -60,7 +60,7 @@ jobs:
         timeout: 10
         max-score: 1
     - name: Test 6a (API server)
-      id: test-6a-api-client
+      id: test-6a-api-server
       uses: education/autograding-command-grader@v1
       with:
         test-name: Test 6a (API server)
@@ -69,7 +69,7 @@ jobs:
         timeout: 10
         max-score: 1
     - name: Test 6b (API client)
-      id: test-6b-api-server
+      id: test-6b-api-client
       uses: education/autograding-command-grader@v1
       with:
         test-name: Test 6b (API client)
